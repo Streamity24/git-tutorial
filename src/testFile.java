@@ -3,7 +3,7 @@ public class testFile {
     String test = "TestString";
     String testTwo = "SecondTestString";
     String testThree = "ThirdTestString";
-    String testFour = "FourthTestString";
+    String testFour = "FourthTestStrings";
 
 
 }
